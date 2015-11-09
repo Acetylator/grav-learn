@@ -183,4 +183,4 @@ This section contains advanced system options.
 | Option              | Description                                                                |
 | :-----              | :-----                                                                     |
 | Absolute URLs       | Absolute or relative URLs for `base_url`.                                  |
-| Parameter Separator | Separater for passed parameters that can be changed for Apache on Windows. |
+| Parameter Separator | Separator for passed parameters that can be changed for Apache on Windows. |
